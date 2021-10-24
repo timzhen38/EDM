@@ -1,1 +1,1 @@
-# Exoplanet-Detection-Model
+# Exoplanet-Detection-Models
