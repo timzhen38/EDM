@@ -1,5 +1,8 @@
 # Exoplanet-Detection-Models
 
+# Description
+A collection of machine learning models that are trained on light curve data and are able to predict whether or not a given set of light curve data contains an exoplanet.
+
 # Steps:
 1. Install lightKurve
 ```
