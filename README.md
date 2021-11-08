@@ -20,3 +20,6 @@ pip install xgboost
 
 4. Retrain any of the models in Models/ if desired
 5. Run the inference notebook in Models/
+
+# Notes
+Not recommended to run more than one model at the same time because you may run into memory issues
