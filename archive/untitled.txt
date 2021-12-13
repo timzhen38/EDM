@@ -1,1 +1,0 @@
-Github does not allow us to store files large than 150MB, so we need to upload it manually.

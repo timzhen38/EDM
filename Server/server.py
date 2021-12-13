@@ -24,7 +24,6 @@ def data():
     models = request.args.get('models')
 
     #function that takes input, training, processing and models and returns the results object
-
     dict_data = {
     "targetpixelfile" : inputlightcurve.getTPFimg(input),
     "lightcurve" : inputlightcurve.getLCimg(input),
