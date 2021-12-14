@@ -1,3 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.npy filter=lfs diff=lfs merge=lfs -text
 archive/clean-exo-train.npy filter=lfs diff=lfs merge=lfs -text
+Kaggle/archive/ProcessData.npy filter=lfs diff=lfs merge=lfs -text
