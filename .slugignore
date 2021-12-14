@@ -1,0 +1,7 @@
+/Other
+/Analysis
+*.ipynb
+TS*.pkl
+Kepler*.pkl
+Labels*.pkl
+/Kepler/TFRecords
